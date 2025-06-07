@@ -1,0 +1,7 @@
+{
+    "name": "shopify-yampi-checkout",
+    "version": "1.0.0",
+    "main": "api/checkout.js",
+    "license": "MIT"
+  }
+  
