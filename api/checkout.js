@@ -21,7 +21,7 @@ export default async function handler(req, res) {
       const response = await fetch('https://api.yampi.com.br/v1/cart/create', {
         method: 'POST',
         headers: {
-          'Authorization': 'Bearer sk_QjsuRALia8fT5CzTHmUw2TFRpQCp914NQhAVt',
+          'Authorization': 'Bearer lnmhxaUiW4uXFhxOFladZFWoaxNOT7NjK0c9hrZU',
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({ products })
